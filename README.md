@@ -2,8 +2,6 @@
 
 NekoNime is a fullstack anime platform where users can explore anime details, manage their watchlists, rate anime, and engage in lively discussions. Built with the power of **React**, **Node.js**, **Express**, and **MongoDB**, it’s your cozy digital haven for anime lovers~!
 
-![NekoNime Screenshot](./assets/preview.png) <!-- Replace with actual image path if needed -->
-
 ---
 
 ## 🌟 Features
@@ -43,36 +41,6 @@ NekoNime is a fullstack anime platform where users can explore anime details, ma
 - AniList GraphQL API
 - Cloudinary (for profile pictures)
 - Vite (frontend bundler)
-
----
-
-## 🗂️ Folder Structure
-
-```bash
-/
-├── frontend/            # React frontend
-│   ├── src/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── hooks/
-│   │   ├── hooks/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── styles/
-│   │   ├── utils/
-│   │   └── ...
-├── backend/            # Express backend
-│   ├── src/
-│   │   ├── config/
-│   │   ├── controllers/
-│   │   ├── middlewares/
-│   │   ├── models/
-│   │   ├── routes/
-│   │   ├── services/
-│   │   ├── utils/
-│   │   └── ...
-└── .env.example       # Environment variable sample
-```
 
 ---
 
