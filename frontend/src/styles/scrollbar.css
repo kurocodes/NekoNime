@@ -1,0 +1,36 @@
+
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #5d5d5d00; 
+  border-radius: 4px;
+}
+
+.custom-scrollbar:hover::-webkit-scrollbar-thumb {
+  background: #5d5d5d;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #429EA6;
+}
+
+.custom-scrollbar::-webkit-scrollbar-button {
+  display: none;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  opacity: 0;
+}
+
+/* hide scrollbar */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}

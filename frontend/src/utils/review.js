@@ -1,0 +1,65 @@
+export const reviewTiers = [
+  {
+    label: "Trash",
+    icon: "🗑️", // You can also use something like <Trash2 /> from Lucide
+    bgColor: "bg-gray-800",
+    textColor: "text-gray-200",
+    hover: "hover:bg-gray-700 hover:text-white",
+  },
+  {
+    label: "Mid",
+    icon: "😐",
+    bgColor: "bg-zinc-700",
+    textColor: "text-zinc-100",
+    hover: "hover:bg-zinc-600 hover:text-white",
+  },
+  {
+    label: "Decent",
+    icon: "👍",
+    bgColor: "bg-blue-100",
+    textColor: "text-blue-900",
+    hover: "hover:bg-blue-200 hover:text-blue-950",
+  },
+  {
+    label: "Good",
+    icon: "😄",
+    bgColor: "bg-green-100",
+    textColor: "text-green-900",
+    hover: "hover:bg-green-200 hover:text-green-950",
+  },
+  {
+    label: "Great",
+    icon: "✨",
+    bgColor: "bg-purple-100",
+    textColor: "text-purple-900",
+    hover: "hover:bg-purple-200 hover:text-purple-950",
+  },
+  {
+    label: "Must Watch",
+    icon: "🎯",
+    bgColor: "bg-yellow-100",
+    textColor: "text-yellow-900",
+    hover: "hover:bg-yellow-200 hover:text-yellow-950",
+  },
+  {
+    label: "Peak",
+    icon: "🏔️",
+    bgColor: "bg-indigo-100",
+    textColor: "text-indigo-900",
+    hover: "hover:bg-indigo-200 hover:text-indigo-950",
+  },
+  {
+    label: "Masterpiece",
+    icon: "🎨",
+    bgColor: "bg-pink-100",
+    textColor: "text-pink-900",
+    hover: "hover:bg-pink-200 hover:text-pink-950",
+  },
+  {
+    label: "GOAT",
+    icon: "🐐",
+    bgColor: "bg-red-100",
+    textColor: "text-red-900",
+    hover: "hover:bg-red-200 hover:text-red-950",
+  },
+];
