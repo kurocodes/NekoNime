@@ -17,7 +17,7 @@ NekoNime is a fullstack anime platform where users can explore anime details, ma
 
 ## 📸 Demo
 
-> [🚀 Live Demo Link](https://nekonime-eight.vercel.app/) *(if hosted)*
+> [🚀 Live Demo Link](https://nekonime-eight.vercel.app/)
 
 ---
 
