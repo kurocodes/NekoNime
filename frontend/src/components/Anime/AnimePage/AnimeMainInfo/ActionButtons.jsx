@@ -156,7 +156,7 @@ export default function ActionButtons({ animeDetails }) {
             ref={dropdownRef}
             className={`absolute ${
               dropDownPosition === "top" ? "bottom-full mb-1" : "top-full mt-1"
-            } left-0 w-full bg-white border border-gray-300 rounded-md shadow-lg z-10`}
+            } left-0 w-full bg-white border border-gray-300 rounded-md shadow-lg z-11`}
           >
             {[
               "Completed",
