@@ -2,8 +2,6 @@
 
 NekoNime is a fullstack anime platform where users can explore anime details, manage their watchlists, rate anime, and engage in lively discussions. Built with the power of **React**, **Node.js**, **Express**, and **MongoDB**, it’s your cozy digital haven for anime lovers~!
 
----
-
 ## 🌟 Features
 
 - 🔍 **Browse Anime** – Search and view detailed info from AniList API
@@ -12,14 +10,6 @@ NekoNime is a fullstack anime platform where users can explore anime details, ma
 - ❤️ **Like System** – Like comments and replies
 - 🔐 **Authentication** – Signup/login
 - 🎨 **User Profiles** – Profile picture, username, anime lists
-
----
-
-## 📸 Demo
-
-> [🚀 Live Demo Link](https://nekonime-eight.vercel.app/)
-
----
 
 ## 🧰 Tech Stack
 
@@ -96,13 +86,9 @@ npm run dev
 - 🔍 Advanced search & filters
 - 📝 Custom Lists
 
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
----
 
 ## 💖 Credits
 
